@@ -7,6 +7,8 @@ public class ExcptionHandling {
 int a,b,c;
 a=10;
 b=0;
+
+//commt
 try
 {
 c=a/b;
